@@ -334,7 +334,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Futuristic spatial station"
+         "value":"Suitable for up to 10 users.\n\nThis little space station will be perfect for your futuristic startup meetings!"
         }, 
         {
          "name":"mapImage",
@@ -349,7 +349,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Small spacial station"
+         "value":"Small space station"
         }, 
         {
          "name":"script",
